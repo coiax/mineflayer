@@ -1,3 +1,38 @@
 # shared with .npmignore
 # different than .npmignore
 /node_modules
+npm-debug.log
+### /home/coiax/.gitignore-boilerplates/Global/Linux.gitignore
+
+.*
+!.gitignore
+*~
+
+# KDE
+.directory
+
+
+### /home/coiax/.gitignore-boilerplates/Global/Windows.gitignore
+
+# Windows image file caches
+Thumbs.db 
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+
+### /home/coiax/.gitignore-boilerplates/Global/OSX.gitignore
+
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
