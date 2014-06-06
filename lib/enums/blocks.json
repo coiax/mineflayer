@@ -426,8 +426,8 @@
   },
   "38": {
     "id": 38,
-    "displayName": "Rose",
-    "name": "rose",
+    "displayName": "Small Flower",
+    "name": "smallFlower",
     "hardness": 0,
     "stackSize": 64,
     "diggable": true,
@@ -1873,5 +1873,145 @@
       "278": true,
       "285": true
     }
+  },
+  "159": {
+      "id": 159,
+      "displayName": "Stained Clay",
+      "name": "stainedClay",
+      "hardness": 30,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "dirt",
+      "harvestTools": {
+          "270": true,
+          "274": true,
+          "257": true,
+          "278": true,
+          "285": true
+      }
+  },
+  "160": {
+      "id": 160,
+      "displayName": "Stained Glass Pane",
+      "name": "stainedGlassPane",
+      "hardness": 1.5,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "glass"
+  },
+  "161": {
+      "id": 161,
+      "displayName": "Leaves",
+      "name":"leaves2",
+      "hardness": 1,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "leaves"
+  },
+  "162": {
+      "id": 162,
+      "displayName": "Wood",
+      "name": "log2",
+      "hardness": 2,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "wood"
+  },
+  "163": {
+      "id": 163,
+      "displayName": "Acacia Wood Stairs",
+      "name": "acaciaStairs",
+      "hardness": 15,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "wood"
+  },
+  "164": {
+      "id": 164,
+      "displayName": "Dark Oak Wood Stairs",
+      "name": "darkOakStairs",
+      "hardness": 15,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "wood"
+  },
+  "170": {
+      "id": 170,
+      "displayName": "Hay Block",
+      "name": "hayBlock",
+      "hardness": 10,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "leaves"
+  },
+  "171": {
+      "id": 171,
+      "displayName": "Carpet",
+      "name": "carpet",
+      "hardness": 0,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "empty",
+      "material": "wool"
+  },
+  "172": {
+      "id": 172,
+      "displayName": "Hardened Clay",
+      "name": "hardenedClay",
+      "hardness": 30,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "dirt",
+      "harvestTools": {
+          "270": true,
+          "274": true,
+          "257": true,
+          "278": true,
+          "285": true
+      }
+  },
+  "173": {
+      "id": 173,
+      "displayName": "Block of Coal",
+      "name": "coalBlock",
+      "hardness": 30,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "dirt",
+      "harvestTools": {
+          "270": true,
+          "274": true,
+          "257": true,
+          "278": true,
+          "285": true
+      }
+  },
+  "174": {
+      "id": 174,
+      "displayName": "Packed Ice",
+      "name": "packedIce",
+      "hardness": 2.5,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "block",
+      "material": "rock"
+  },
+  "175": {
+      "id": 175,
+      "displayName": "Large Flowers",
+      "name": "doublePlant",
+      "hardness": 0,
+      "stackSize": 64,
+      "diggable": true,
+      "boundingBox": "empty"
   }
 }
